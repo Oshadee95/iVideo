@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "208562928999",
+    "firebase_url": "https://movie-time-19.firebaseio.com",
+    "project_id": "movie-time-19",
+    "storage_bucket": "movie-time-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208562928999:android:eadc9a58b96712b1",
+        "android_client_info": {
+          "package_name": "com.example.redhw.videomanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208562928999-gakg0dvu7gci2sqms9u317fpum5h3fbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN7aTN1KmDoeb-m9Mjs45_QRTSrqVgpgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
